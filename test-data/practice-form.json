@@ -1,0 +1,11 @@
+{
+  "name": "Abanob Amgad",
+  "email": "Abanob.test@example.com",
+  "gender": "Male",
+  "mobile": "0123777789",
+  "subjects": "Automation",
+  "address": "Cairo, Egypt",
+  "state": "Uttar Pradesh",
+  "city": "Agra",
+  "picturePath": "test-data/files/sample-picture.png"
+}
